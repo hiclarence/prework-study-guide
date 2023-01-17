@@ -1,13 +1,10 @@
 
-# Clarecen's Pre-Work
+# Clarence's Pre-Work
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-This project was created to familiarlze myself with HTML, CSS, Javascript, and Git. It helped acquaint me with VS Code as well. I'm learning to gradually document my efforts and learnings using this webbpage.
-
-
+This project was created to learn familiarlze with HTML, CSS, Javascript, and Git. I've also learned VS Code and how to gradually document my efforts and learnings using this webpage.
 
 ## Installation
 
@@ -15,7 +12,7 @@ N/A
 
 ## Usage
 
-This assignment is to be used as a personal template for myself in recording lessons learned about the various languages.  I hope to continue making this a running list of things that I've learned. it will also be a great arena for me to further play with CSS and HTML.
+This assignment is to be used as a personal template to record lessons learned about the various languages.  I hope to continue making this a living document, both in terms of content as well as functionality. 
 
 ## Credits
 
