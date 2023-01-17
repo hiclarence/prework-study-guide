@@ -5,23 +5,22 @@
 }
 
 
-
 header,
 footer {
     width: 100%;
-    height: 120px;
-    background-color: rgb(80, 148, 211);
+    height: 150px;
+    background-color: #003057;
+    /* background-color: rgb(80, 148, 211); */
     color: white;
 }
 
 body {
-    background-color: #fcfcfc;
+    background-color: #fafafa;
   }
 
 h1,
 h2 {
     text-align: center;
-    margin: 15px;
     font-family: Lato;
     font-weight: 400px;
 }
@@ -32,6 +31,7 @@ img {
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
 }
 
 ul {
@@ -40,12 +40,14 @@ ul {
     margin-bottom: 20px;
     font-family: Lato;
     font-weight: 100px;
+    color: #555555;
 }
 
 p {
     text-align: center;
     font-size: 30px;
     font-family: Lato;
+    margin-top:  30px;
   }
 
 
@@ -55,4 +57,12 @@ p {
     border: 2px solid gray;
     box-shadow: 2px 3px #919191;
     border-radius: 10px;
+    background-color: white;
+}
+
+.card h2 {
+    text-align: center;
+    font-family: Lato;
+    font-weight: 400px;
+    margin: 10px;
 }
