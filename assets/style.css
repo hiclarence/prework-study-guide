@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    /* border: 1px solid pink; */
 }
 
 
@@ -22,7 +21,6 @@ h1,
 h2 {
     text-align: center;
     margin: 15px;
-    font-family: Lato;
 }
 
 img {
